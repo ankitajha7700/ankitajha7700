@@ -1,3 +1,4 @@
+![logo](https://github.com/ankitajha7700/ankitajha7700/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ankita Kumari</h1>
 <h3 align="center">A passionate Software Engineer From India</h3>
 
